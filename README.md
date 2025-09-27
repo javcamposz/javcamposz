@@ -21,7 +21,7 @@ As a CTO, AI advisor, and published author, I blend hands-on research with decad
 
 ## 🚀 About Me
 
-- **Current:** Group CTO (Data & AI) at [Capeo.io](https://www.cape.io)
+- **Current:** Group CTO (Data & AI) at [Cape.io](https://www.cape.io)
 - **Research:** AI Safety Alignment at Cambridge AI Safety Hub (2025–)
 - **Books:**  
   - *Autonomous Minds* (Wiley, 2025): The future of agentic AI  
@@ -40,7 +40,7 @@ As a CTO, AI advisor, and published author, I blend hands-on research with decad
 
 - **Enterprise AI Leadership**  
   - Led LLM-driven fraud detection solutions (+20% perf, showcased by BBC/ITN)  
-  - Designed AI-powered adtech, $100m+ new revenue, global scale (Experian, Peach.me)
+  - Designed AI-powered adtech, $100m+ new revenue, global scale (Experian, cape.io)
 
 - **Books & Whitepapers**  
   - “Autonomous Minds: How AI Agents Will Transform Your Work, Your Life, and Future” (Wiley, 2025)  
@@ -72,11 +72,11 @@ As a CTO, AI advisor, and published author, I blend hands-on research with decad
 ### 📌 Featured Repositories
 
 <p>
+  <a href="https://github.com/javcamposz/inspect_evals">Benchmark AI safety evals for Inspect AI </a> – Benchmark Evals in agentic settings for AI Safety  
+  <br>
   <a href="https://github.com/javcamposz/AI-Scientist">AI-Scientist: Open-Ended Discovery</a> – Agentic AI research, benchmarks  
   <br>
   <a href="https://github.com/javcamposz/HowtoGrowAIcodesamples">Grow Your Business with AI – Samples</a>
-  <br>
-  <a href="https://github.com/javcamposz/AdvancedAIStandfordcourse">Stanford Advanced AI Course (Samples)</a>
   <br>
   <a href="https://javcamposz.github.io">Portfolio & Publications Hub</a>
 </p>
