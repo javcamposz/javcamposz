@@ -3,7 +3,7 @@
 
 <h1 align="center">Javier Campos</h1>
 <h3 align="center">
-Group CTO (Peach.me) | AI/Data Strategy Leader | Cambridge, UK
+Group CTO (Cape.io) | AI/Data Strategy Leader | Cambridge, UK
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/camposjavier/">LinkedIn</a> ·
@@ -21,13 +21,13 @@ As a CTO, AI advisor, and published author, I blend hands-on research with decad
 
 ## 🚀 About Me
 
-- **Current:** Group CTO (Data & AI) at [Peach.me](https://www.peach.me)
+- **Current:** Group CTO (Data & AI) at [Capeo.io](https://www.cape.io)
 - **Research:** AI Safety Alignment at Cambridge AI Safety Hub (2025–)
 - **Books:**  
   - *Autonomous Minds* (Wiley, 2025): The future of agentic AI  
   - *Grow Your Business with AI* (Springer, 2023)
 - **Recent Patent:** “Fairness on AI” (US/EU) – scalable methods for ML fairness
-- **Prior Roles:** SVP at Experian, CIO at Fenestra, Global CTO at Kantar/WPP
+- **Prior Roles:** SVP at Experian, Global CTO at Kantar/WPP, CIO at GroupM/WPP
 - **Regulatory Advisor:** EU AI Act, FCA/BoE Tech Forums, TechUK
 
 ---
@@ -56,7 +56,7 @@ As a CTO, AI advisor, and published author, I blend hands-on research with decad
 - **MIT Professional Education** – Mastering Design Thinking
 - **Stanford Online** – Machine Learning Specialization
 - **BEng & BSc** – Automation Engineering (ETSII Madrid); Physics (UNED, Spain)
-- **Certs:** NATO Secret (NS) clearance
+- **Certs:** NATO Secret (NS) clearance (expired)
 
 ---
 
