@@ -36,6 +36,7 @@ Our experiments found that system-prompted personality can change misalignment p
 | Project | What it demonstrates |
 | --- | --- |
 | [AgentMisalignment benchmark](https://github.com/javcamposz/inspect_evals/tree/main/src/inspect_evals/agentmisalignment) | Agent-based safety evaluations built with the UK AI Security Institute's Inspect framework |
+| [RSI Eval Lab](https://github.com/javcamposz/evals_RSI) | A runnable lineage auditor and Inspect task for evaluator tampering, shutdown resistance, containment, and Goodharting in recursively improving systems |
 | [AI Engineering Journey](https://github.com/javcamposz/ai-engineering-journey) | A runnable maturity assessment that turns seven delivery capabilities into a phased transformation roadmap |
 | [Board AI Governance Toolkit](https://github.com/javcamposz/board-ai-governance-toolkit) | An inspectable AI risk register, decision templates, and deterministic board dashboard generator |
 | [Garmin Running Dashboard](https://github.com/javcamposz/garmin_running) | A privacy-conscious Streamlit application that turns Garmin exports into training and performance analysis |
